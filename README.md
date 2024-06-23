@@ -34,7 +34,12 @@ To get started with the EV Charging System, follow the steps outlined in the Ins
 
 We welcome contributions! If you'd like to contribute to the EV Charging System, please follow our Contribution Guidelines.
 
-License
+![Screenshot 2023-08-26 062958](https://github.com/Abhi3110200/EV_CH/assets/94143976/a321ed9e-d686-4b3d-83a5-8a16c2a1f165)
+![Screenshot 2023-08-26 063010](https://github.com/Abhi3110200/EV_CH/assets/94143976/759911b0-2639-4967-bbfc-d1792054d6a2)
+![Screenshot 2023-08-26 063059](https://github.com/Abhi3110200/EV_CH/assets/94143976/424fc768-2d27-4c53-8445-d0b8807d466c)
+![Screenshot 2023-08-26 085033](https://github.com/Abhi3110200/EV_CH/assets/94143976/9f231190-865d-4c50-b85d-f3b3fb8d101e)
+
+# License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own projects.
 
